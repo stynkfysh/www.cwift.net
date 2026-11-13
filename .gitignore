@@ -1,0 +1,4 @@
+_tools/
+_incoming/
+.DS_Store
+*.log
