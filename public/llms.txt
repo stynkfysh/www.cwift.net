@@ -3,7 +3,7 @@
 > Cwift.net is the minimal, first-person site for Brian Ward's 24-hour desktop appraisals of California homes and condominiums. Brian Ward is a California Certified Residential Real Estate Appraiser (license AR036053) who has appraised California homes since 2004. Reports are emailed within 24 hours of payment and photos, seven days a week. Same appraiser and service as cwift.com; standard-schedule reports are also offered by date-of-death.com.
 
 ## Facts
-- Within 24 hours: Standard Desktop $675, Basic Desktop $450 (regular price plus half, rounded to the nearest $5)
+- Within 24 hours: Standard Desktop $675, Basic Desktop $450
 - Regular schedule (5–10 business days): Standard $449, Basic $299
 - The 24 hours start once payment and photos have both arrived; weekends and holidays count
 - Coverage: all of California; single-family homes, condominiums and townhomes (not 2–4 units, apartments, commercial or land); not for loans
