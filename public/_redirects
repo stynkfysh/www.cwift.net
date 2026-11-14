@@ -3,3 +3,10 @@
 /fees /#fees 301
 /credibility /credible 301
 /photos /upload 301
+/areas/ /areas 301
+/uses/ /uses 301
+/areas/san-francisco-county /areas/san-francisco 301
+/california /areas 301
+/california/* /areas/:splat 301
+/purposes /uses 301
+/purposes/* /uses 301
