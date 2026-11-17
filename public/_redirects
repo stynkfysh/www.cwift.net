@@ -10,3 +10,16 @@
 /california/* /areas/:splat 301
 /purposes /uses 301
 /purposes/* /uses 301
+# Legacy paths from the pre-2026 Google Sites cwift.net
+/home / 301
+/Home / 301
+/Order_an_Appraisal /order 301
+/Order_an_Appraisal/* /order 301
+/Order_An_Appraisal /order 301
+/Order_An_Appraisal/* /order 301
+/contact_information /about 301
+/contact_information/* /about 301
+/Service_Area /areas 301
+/Service_Area/* /areas 301
+/Appraisal_Services /uses 301
+/Appraisal_Services/* /uses 301
